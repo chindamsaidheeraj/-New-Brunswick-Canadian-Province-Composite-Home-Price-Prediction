@@ -1,4 +1,4 @@
-# -New-Brunswick-Canadian-Province-Composite-Home-Price-Prediction
+# New-Brunswick-Canadian-Province-Composite-Home-Price-Prediction
 
 # 1. Introduction
 

@@ -33,7 +33,7 @@ Time Series models utilized in this implementation are as follows
 
  VAR (Vector auto regression model).
 
-# 4. Analysis and implementation
+# 4.Analysis and implementation
 
 In general, home price index helps to understand the variations involved in builder’s selling 
 prices of residential houses where in the specifications will remain same between two 
